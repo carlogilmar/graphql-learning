@@ -63,3 +63,24 @@ Are funcions for provide business logic.
 - context: Holds the pre-request state like authentication information that should be considered while resolving the query
 - info: Contains information about the execution state of the query and should only be used in advanced cases
 
+## ExpressJS Example
+
+Basics:
+- Data
+- Types
+- Resolvers
+- Schema
+
+Test the app with  this:
+
+```
+query{
+  getAuthors{
+    info{
+      name
+      age
+    }
+  }
+}
+```
+
