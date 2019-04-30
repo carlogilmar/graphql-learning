@@ -1,1 +1,14 @@
 graphql-node/server/node_modules/
+
+plateSlate/_build/
+plateSlate/cover/
+plateSlate/deps/
+plateSlate/doc/
+plateSlate/.fetch
+plateSlate/erl_crash.dump
+plateSlate/*.ez
+plateSlate/plateSlate-*.tar
+plateSlate/npm-debug.log
+plateSlate/assets/node_modules/
+plateSlate/priv/static/
+plateSlate/config/*.secret.exs
